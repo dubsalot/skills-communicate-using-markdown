@@ -11,3 +11,6 @@
 
 🔥
 
+```bash
+echo "hello world"
+```
