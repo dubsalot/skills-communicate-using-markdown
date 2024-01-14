@@ -14,3 +14,9 @@
 ```bash
 echo "hello world"
 ```
+# step 4 task list
+
+- [ ] Turn on lights
+- [ ] Outline rough draft
+- [ ] Introduce ai
+
